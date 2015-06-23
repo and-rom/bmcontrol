@@ -24,7 +24,7 @@ BMcontrol позволяет передавать основные команд�
 Скомпилированная версия 1.1: [32-bit](http://devphp.org.ua/bmcontrol1.1_exec.tar.bz2) [64-bit](http://devphp.org.ua/bmcontrol1.1_64exec.tar.bz2)  
 
 Скомпилированные версии:  
-[https://github.com/and-rom/bmcontrol/raw/master/bin/bmcontrol_x32_1.0](1.0 32-bit)  
-[https://github.com/and-rom/bmcontrol/raw/master/bin/bmcontrol_x32_1.1](1.1 32-bit)  
-[https://github.com/and-rom/bmcontrol/raw/master/bin/bmcontrol_x64_1.1](1.1 64-bit)  
-[https://github.com/and-rom/bmcontrol/raw/master/bin/bmcontrol_x64_1.1_alt](1.1 64-bit альтернативная)  
+[1.0 32-bit](https://github.com/and-rom/bmcontrol/raw/master/bin/bmcontrol_x32_1.0)  
+[1.1 32-bit](https://github.com/and-rom/bmcontrol/raw/master/bin/bmcontrol_x32_1.1)  
+[1.1 64-bit](https://github.com/and-rom/bmcontrol/raw/master/bin/bmcontrol_x64_1.1)  
+[1.1 64-bit альтернативная](https://github.com/and-rom/bmcontrol/raw/master/bin/bmcontrol_x64_1.1_alt)  
