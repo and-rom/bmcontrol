@@ -18,13 +18,13 @@ BMcontrol позволяет передавать основные команд�
 * delay <5-255> - Задает время неактивного состояния устройства. Для версии прошивки 1h время может быть задано в пределах 5-255, для прошивки 2h значение может быть задано в 0, при этом функция отключения устройства не работает.
 
 
-Исходники программы: [http://devphp.org.ua/bm.rar](http://devphp.org.ua/bm.rar)
-Версия для OpenWRT: [https://github.com/bubbafix/openwrt-bm1707](https://github.com/bubbafix/openwrt-bm1707)
-Версия 1.1: [https://code.google.com/p/bmcontrol/](https://code.google.com/p/bmcontrol/)
-Скомпилированная версия 1.1: [http://devphp.org.ua/bmcontrol1.1_exec.tar.bz2](32-bit) [http://devphp.org.ua/bmcontrol1.1_64exec.tar.bz2](64-bit)
+Исходники программы: [http://devphp.org.ua/bm.rar](http://devphp.org.ua/bm.rar)  
+Версия для OpenWRT: [https://github.com/bubbafix/openwrt-bm1707](https://github.com/bubbafix/openwrt-bm1707)  
+Версия 1.1: [https://code.google.com/p/bmcontrol/](https://code.google.com/p/bmcontrol/)  
+Скомпилированная версия 1.1: [32-bit](http://devphp.org.ua/bmcontrol1.1_exec.tar.bz2) [64-bit](http://devphp.org.ua/bmcontrol1.1_64exec.tar.bz2)  
 
-Скомпилированные версии:
-[bmcontrol_x32_1.0](1.0 32-bit)
-[bmcontrol_x32_1.1](1.1 32-bit)
-[bmcontrol_x64_1.1](1.1 64-bit)
-[bmcontrol_x64_1.1_alt](1.1 64-bit альтернативная)
+Скомпилированные версии:  
+[https://github.com/and-rom/bmcontrol/raw/master/bin/bmcontrol_x32_1.0](1.0 32-bit)  
+[https://github.com/and-rom/bmcontrol/raw/master/bin/bmcontrol_x32_1.1](1.1 32-bit)  
+[https://github.com/and-rom/bmcontrol/raw/master/bin/bmcontrol_x64_1.1](1.1 64-bit)  
+[https://github.com/and-rom/bmcontrol/raw/master/bin/bmcontrol_x64_1.1_alt](1.1 64-bit альтернативная)  
